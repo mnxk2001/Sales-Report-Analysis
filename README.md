@@ -15,6 +15,8 @@ This project is show about sales overview with data from Jan 01, 2010 to Jul 28,
 - Report Using PowerBI include:
 	- [Sales Report Analysis – PowerBI.pdf](https://github.com/mnxk2001/Sales-Report-Analysis/blob/dd3478572232eaef76ee72f0833e85ed578c95b0/Report%20Using%20PowerBI/Sales%20Report%20Analysis%20-%20PowerBI.pdf) – this is PowerBI Desktop file images
 	- [Sales Report Analysis.pbix](https://github.com/mnxk2001/Sales-Report-Analysis/blob/dd3478572232eaef76ee72f0833e85ed578c95b0/Report%20Using%20PowerBI/Sales%20Report%20Analysis.pbix) – this is PowerBI Desktop file. If you want to edit, you need to download this file and Power BI Desktop app.
+ 	- Using direct report at [here](https://report.onhandbi.com/public/report?token=eyJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfbGlua19pZCI6NDcwLCJoYXNfcGFzc2NvZGUiOnRydWUsInRpbWUiOjE3NTc3ODE4MzJ9.2-qxUoVo-xLPQ3U79RZ1I2eDmfmJRLjsLyImW5q0VvU) with passcode is **954960**
+	_This report will expire on ***October 31, 2025***_
 
 	You can see how to use report below (gif). Please wait a few minutes for the image to display.
 
